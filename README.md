@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/wmomesso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wmomesso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmomesso&layout=compact&langs_count=11&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmomesso&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="WMomesso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +11,7 @@
   <img align="center" alt="WMomesso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="WMomesso-Laravel" height="30" width="40" src="https://www.designbust.com/download/168/thumb/laravel_icon_thum.png">
  <img align="center" alt="WMomesso-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
-  <img align="right" alt="WMomesso-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="WMomesso-perfil" src="https://avatars.githubusercontent.com/u/21183686?s=96&v=4">
 </div>
   
   ##
